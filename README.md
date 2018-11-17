@@ -3,4 +3,4 @@ its about hello world project
 hii
 hi lawen here
 
-software engineear to be
+software engineer to be
